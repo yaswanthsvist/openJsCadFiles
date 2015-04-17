@@ -1,7 +1,6 @@
-// title: OpenJSCAD.org Logo
-// author: Rene K. Mueller 
+// title: OpenJSCAD.org hallow Cube
+// author: Yaswanth Malisetty 
 // license: Creative Commons CC BY
-// URL: http://openjscad.org/#examples/logo.jscad
 // revision: 0.003
 // tags: Logo,Intersection,Sphere,Cube
 
